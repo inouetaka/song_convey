@@ -1,2 +1,10 @@
 venv
 .idea
+*.png
+!example_wordcloud.png
+*.csv
+!example_list.csv
+*.txt
+!example_wakati_list.txt
+!stop_word_english.txt
+!stop_word_japanese.txt

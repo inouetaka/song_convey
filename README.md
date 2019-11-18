@@ -1,4 +1,4 @@
-![example_img](https://github.com/inouetaka/song_convey/blob/master/output_image/3361_wordcloud.png)
+![example_img](https://github.com/inouetaka/song_convey/blob/master/output_image/example_wordcloud.png)
 
 ## ToDo
 前処理が全然足りない  
